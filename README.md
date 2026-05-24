@@ -1,3 +1,5 @@
+[english](./READM_EN.md)
+
 # podgist-skill
 
 本地 Codex 插件，用于将播客单集转换为保存的本地文件：
