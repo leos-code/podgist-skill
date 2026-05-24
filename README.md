@@ -1,4 +1,4 @@
-[english](./READM_EN.md)
+[english](./README_EN.md)
 
 # podgist-skill
 
