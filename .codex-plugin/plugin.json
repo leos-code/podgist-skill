@@ -1,0 +1,18 @@
+{
+  "name": "podgist-skill",
+  "version": "0.1.0",
+  "description": "Search, download, transcribe, analyze, and query podcast episodes with local Codex skills.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Podgist Skill",
+    "shortDescription": "Turn a podcast episode into a Chinese summary with timestamped listening recommendations.",
+    "longDescription": "Podgist Skill searches Apple podcast episodes, downloads a selected episode, transcribes it locally with faster-whisper, writes a Chinese analysis blog, and answers follow-up questions from saved artifacts.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "帮我搜索一期播客，判断值不值得听，并给我能快速跳听的时间点。"
+  }
+}
